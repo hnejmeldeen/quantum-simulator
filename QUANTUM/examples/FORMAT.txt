@@ -1,0 +1,18 @@
+
+# first python function V(x,y) giving potential to affect particle
+
+def V(x,y):
+	...
+	...
+	return ...
+
+# second python function wavefunction(x,y) giving initial complex-valued state
+# note 'j' can be used as sqrt(-1) in python
+
+def wavefunction(x,y):
+	...
+	...
+	return a + bj            # can be any complex scalar
+
+
+
